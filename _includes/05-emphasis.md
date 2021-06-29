@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*My favorite programming languages are:*
+**HTML
+CSS
+Javascript
+PHP
+MySQL**
+
+**I also like learning about investing and cryptocoins**
